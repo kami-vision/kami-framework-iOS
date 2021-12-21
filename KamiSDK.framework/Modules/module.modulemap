@@ -1,0 +1,4 @@
+framework module KamiSDK {
+  header "KamiSDK-Swift.h"
+  requires objc
+}
